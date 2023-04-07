@@ -4,7 +4,6 @@ import {
   calculateSpentByBudget,
   formatCurrency,
   formatPrecentage,
-  getAllMatchingItems,
 } from "../helpers";
 
 const BudgetItem = ({ budget }) => {
